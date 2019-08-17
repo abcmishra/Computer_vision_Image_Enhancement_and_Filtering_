@@ -1,2 +1,2 @@
 # Computer_vision_Image_Enhancement_and_Filtering_
-This section will explian regarding image enhancement and Filtering
+This section will explain regarding image enhancement and Filtering
